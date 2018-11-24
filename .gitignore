@@ -29,10 +29,6 @@ wheels/
 .installed.cfg
 *.egg
 MANIFEST
-launch.json
-.vscode/
-.vscode/launch.json
-.vscode/settings.json
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -138,4 +134,4 @@ pyvenv.cfg
 pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/python
-.vscode/settings.json
+.vscode/
