@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-name = input("Enter your name: ")
-age = input("Enter your age: ")
-print("Hello, " + name + "! You are " + age)
-=======
 # name = input("Enter your name: ")
 # age = input("Enter your age: ")
 # print("Hello " + name.capitalize() + "! You are " + age + " vezes corno" )
@@ -13,4 +8,3 @@ num2 = input("Enter another number: ")
 result = float(num1) + float(num2)
 
 print(result)
->>>>>>> 12b2e98b22f5370ed5d7419b277ec3121c965c0a
